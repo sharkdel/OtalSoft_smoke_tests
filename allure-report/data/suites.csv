@@ -1,0 +1,5 @@
+"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","36832","test_add_businessman[positive_password-positive_name]","tests","Wed Oct 30 21:59:02 MSK 2024","failed","Wed Oct 30 21:59:39 MSK 2024","","test_add_businessman","",""
+"","23757","test_add_merchandise[positive_password-positive_name]","tests","Wed Oct 30 22:01:34 MSK 2024","passed","Wed Oct 30 22:01:57 MSK 2024","","test_add_merchandise","",""
+"","103417","test_add_legal_entity[positive_password-positive_name]","tests","Wed Oct 30 21:59:44 MSK 2024","failed","Wed Oct 30 22:01:28 MSK 2024","","test_add_legal_entity","",""
+"","28024","test_add_person[positive_password-positive_name]","tests","Wed Oct 30 22:02:03 MSK 2024","failed","Wed Oct 30 22:02:31 MSK 2024","","test_add_person","",""
